@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="BadmintonBulkScoreEntryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BadmintonHistoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BadmintonHomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BadmintonScheduleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BadmintonScoreEntryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BulkScoreEntryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CaneballBulkScoreEntryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CaneballHistoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CaneballHomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CaneballScheduleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CaneballScoreEntryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChessBulkScoreEntryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChessForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChessHistoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChessScheduleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChessScoreEntryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GreenBorderComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="GreenBorderListBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="RoundedButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ScheduleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ScheduleHistoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ScoreEntryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

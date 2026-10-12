@@ -1,0 +1,12 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio user specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS Code directory
+.vscode/

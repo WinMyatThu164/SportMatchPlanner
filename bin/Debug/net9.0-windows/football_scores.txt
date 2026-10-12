@@ -1,0 +1,7 @@
+3
+Team 1|Team 2|1|5
+Team 1|Team 3|2|5
+Team 2|Team 3|4|6
+Team 1|0
+Team 2|3
+Team 3|6
